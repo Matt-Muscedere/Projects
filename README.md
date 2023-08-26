@@ -23,4 +23,5 @@ Trained Machine Learning model to classify Mushrooms as edible or poisonous by u
 <h2>Tools Used</h2>
 
 Python
+
 Scikit-learn

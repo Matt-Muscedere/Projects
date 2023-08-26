@@ -14,7 +14,7 @@ Python
 
 <h1>Classification Problem</h1>
 
-**[Project]([https://github.com/Matt-Muscedere/Projects/blob/main/Prisoner's%20Dilemma%20Problem.ipynb](https://github.com/Matt-Muscedere/Projects/blob/main/Classification%20Problem.ipynb))**
+**[Project](https://github.com/Matt-Muscedere/Projects/blob/main/Classification%20Problem.ipynb)**
 
 <h2>Description</h2>
 

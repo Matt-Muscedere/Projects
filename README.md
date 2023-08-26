@@ -25,3 +25,11 @@ Trained Machine Learning model to classify Mushrooms as edible or poisonous by u
 Python
 
 Scikit-learn
+
+<h1>Connect 4</h1>
+
+**[Project](https://github.com/Matt-Muscedere/Connect-4)**
+
+<h1>Sort Algorithims</h1>
+
+**[Project](https://github.com/Matt-Muscedere/SortAlgorithms)**
